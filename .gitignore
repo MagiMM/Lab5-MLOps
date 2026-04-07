@@ -1,2 +1,6 @@
 /remote_data
 .DS_Store
+# MLflow
+mlflow.db
+mlflow-artifacts/
+mlruns/
